@@ -34,7 +34,7 @@ I'm a passionate **Student Developer** currently focusing on **Multiplatform App
 ## Featured Projects 💻
 
 - Upcoming Android App Project - This space will soon be filled with details about my Android App Project. Stay tuned for updates!
-- **[Personal Website / Portfolio](https://shkprojects.github.io/portfolio/)** (Under construction)
+- **[Personal Website / Portfolio](https://marinolb.github.io/portfolio/)** (Under construction)
 
 
 <br>
